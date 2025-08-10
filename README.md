@@ -82,8 +82,6 @@ logsentry/
 
 │── README.md
 
-│── images/img.png
-
 ## ⚡ Tech Stack
 * Python 3
 * Regex for pattern matching
