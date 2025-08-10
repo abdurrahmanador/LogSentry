@@ -142,7 +142,5 @@ if __name__ == "__main__":
     main()
 
 
-#__example entry
-#
 
 
